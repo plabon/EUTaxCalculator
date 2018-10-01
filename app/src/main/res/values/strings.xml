@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaxCalculatorDemo</string>
+    <string name="title_activity_tax_calculator">TaxCalculatorActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_contry_text">Select Country with Currency</string>
+    <string name="select_date">Select date from when tax rate is effective</string>
+    <string name="ammount_excluding_taxes">Enter Amount excluding tax</string>
+    <string name="type_of_tax_rate">Select type of tax rate</string>
+    <string name="price_includiong_tax">Amount including tax:</string>
+    <string name="no_internet_connection_text">Please check your internet connection!</string>
+
+</resources>
