@@ -1,7 +1,7 @@
 # EUTaxCalculator
 This app calculate the amount inserted by user with their respective tax rates.
 # CleanArchitecture
-![alt text](https://github.com/plabon/TrendingGithubDemo/blob/master/architecture.png)
+![alt text](https://github.com/plabon/EUTaxCalculator/blob/master/architecture.png)
 # For further reading
 https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
 
