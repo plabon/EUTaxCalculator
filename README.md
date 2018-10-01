@@ -10,6 +10,9 @@ https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/
 # Libreries used
 http://square.github.io/retrofit
 
+# Api used
+https://jsonvat.com/
+
 # Installation
 1. Clone or download the repo
 2. Open project in Android Studio
